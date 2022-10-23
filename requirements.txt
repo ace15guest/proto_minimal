@@ -1,0 +1,8 @@
+numpy
+jmespath
+simple_term_menu
+p_tqdm
+jinja2
+tqdm 
+tk
+jinja2
